@@ -1,1 +1,1 @@
-print("Hello ZPC2")
+print("Hello ALGO2")
